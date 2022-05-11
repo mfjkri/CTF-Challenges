@@ -1,0 +1,15 @@
+description: "Analysing Authentication Log\nFind the THIRD most common username that hackers are trying to brute force into this SSH server."
+additional_info: "If answer is 'CSA', submit flag@CSA."
+answer: "flag@guest"
+
+points: 40
+time_based: False
+one_try: False
+multiple_choices: null
+
+hints:
+  - text: "User that could not be authenticated creates a log with 'invalid user'"
+    deduction: 20
+
+files:
+  - "https://drive.google.com/drive/folders/1y4iNBbkuB0m6b3fvqu9c3yCaXD7p2My4?usp=sharing"
