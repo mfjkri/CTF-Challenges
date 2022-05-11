@@ -1,0 +1,21 @@
+description: "We notice some secret activites happening around Singapore, help us pick up the postal code of their meeting point."
+additional_info: null
+answer: "flag@179369"
+
+
+points: 40
+time_based: False
+one_try: False
+multiple_choices: null
+
+
+hints:
+  -
+    text: "Do you know the Linux file command?"
+    deduction: 5
+  -
+    text: "EXIF"
+    deduction: 5
+
+files:
+  - "https://drive.google.com/drive/folders/1_JFPoYx6XGArNoDp5-Mxgeqt4Lqxf_tn?usp=sharing"
