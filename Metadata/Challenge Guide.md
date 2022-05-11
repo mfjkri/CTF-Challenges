@@ -1,9 +1,9 @@
 # Metadata | Difficulty: Easy
 
-## Description:
+## Requirements:
 
-This challenges is all about reading metadata of the image `alamak.jpg`.\
-The flag can be found in Image Description tag of the metadata which can be extracted using `exif`.
+- Knowledge of metadata
+- Using metadata extraction / display tools such as exif
 
 ---
 
