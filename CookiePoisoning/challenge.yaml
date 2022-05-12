@@ -1,0 +1,16 @@
+description: "Can you login without the userid and password on https://0a69-66-228-12-54.ngrok.io/Challenge5_6/ ?"
+additional_info: null
+answer: "flag@cookieverynice"
+
+points: 50
+time_based: False
+one_try: False
+multiple_choices: null
+
+hints:
+  - text: "Check out the source code. How is cookie used to login?"
+    deduction: 10
+  - text: "Do you know that Chrome/FireFox/etc has built-in Developer Tools to edit cookies?"
+    deduction: 15
+
+files: []
