@@ -1,5 +1,5 @@
-- ~~1-Metadata~~
-- ~~2-GitHistory~~
+- ~~1-MetadataForensic~~
+- ~~2-OSINTGitHistory~~
 - ~~3-PcapAnalysis~~
 - ~~4-InputInjection~~
 - ~~5-CookiePoisoning~~
