@@ -1,0 +1,17 @@
+description: "Randy file just got its file encrypted and ordered to pay 20 TwittyCoin!\nPlease assist randy in decrypting this file that contain his school's programming project."
+additional_info: null
+answer: "flag@programmingisntdifficult"
+
+points: 50
+time_based: False
+one_try: False
+multiple_choices: null
+
+hints:
+  - text: "Are you able to build the program from your IDE?"
+    deduction: 5
+  - text: "Looks like alamak is lazy to think of a complicated password that is 20 characters long."
+    deduction: 20
+
+files:
+  - "https://drive.google.com/drive/folders/1KpwqWA9gWGl4EHV35c6Ig8TEU8rPcSfC?usp=sharing"

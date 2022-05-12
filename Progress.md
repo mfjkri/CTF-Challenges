@@ -6,7 +6,7 @@
 - ~~6-DirectObjectReferencing~~
 - ~~7-LogsAnalysis~~
 - 8-AccessList
-- 9-RansomwareDecryption
+- ~~9-RansomwareDecryption~~
 - 10-Exposure
 - 11-HtmlView
 - 12-TypeConversion
