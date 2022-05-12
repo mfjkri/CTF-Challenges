@@ -36,7 +36,7 @@
         nebula_zip.write(decoded_bytes)
    ```
 
-   You should now have a zip failed called `nebula.zip` that is password protected.
+   You should now have a zip file called `nebula.zip` that is password protected.
 
 4. Locate the `packet` with the zip file password.
    ![Zip file password](Guide-Media/2022-05-11%2017-34.png)
