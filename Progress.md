@@ -1,8 +1,8 @@
 - ~~1-Metadata~~
 - 2-GitHistory
 - ~~3-PcapAnalysis~~
-- 4-InputInjection
-- 5-CookiesManipulation
+- ~~4-InputInjection~~
+- ~~5-CookiePoisoning~~
 - 6-DirectoryNaming
 - ~~7-LogsAnalysis~~
 - 8-AccessList
