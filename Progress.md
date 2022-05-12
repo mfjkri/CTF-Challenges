@@ -1,9 +1,9 @@
 - ~~1-Metadata~~
-- 2-GitHistory
+- ~~2-GitHistory~~
 - ~~3-PcapAnalysis~~
 - ~~4-InputInjection~~
 - ~~5-CookiePoisoning~~
-- 6-DirectoryNaming
+- ~~6-DirectObjectReferencing~~
 - ~~7-LogsAnalysis~~
 - 8-AccessList
 - 9-RansomwareDecryption
