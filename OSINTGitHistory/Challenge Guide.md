@@ -1,4 +1,4 @@
-# GitHistory | Difficulty: Easy
+# OSINTGitHistory | Difficulty: Easy
 
 ## Requirements:
 
