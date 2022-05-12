@@ -7,6 +7,8 @@
     - Base understanding of JS snytax
 - Knowledge of viewing and editing cookies for a website
 
+![Challenge View](Guide-Media/chrome_Vigi4oRINp.png)
+
 ---
 
 ## Steps:

@@ -5,6 +5,8 @@
 - Basic knowledge of Linux commands e.g. ping, ls, cat
 - Basic knowledge of how input is handled (poorly) for Web Development
 
+![Challenge View](Guide-Media/chrome_kpZJysdjhY.png)
+
 ---
 
 ## Steps:
