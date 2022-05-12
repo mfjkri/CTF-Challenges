@@ -9,5 +9,5 @@
 - ~~9-RansomwareDecryption~~
 - 10-SteganographyExposure
 - ~~11-HtmlView~~
-- 12-TypeConversion
+- ~~12-TypeConversion~~
 - 13-Decryption
