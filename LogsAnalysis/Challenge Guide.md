@@ -10,7 +10,7 @@
 
 1. I will be writing a `Python` program to read and filter the log file contents.
 
-```
+```python
 import os
 import re
 from collections import Counter

@@ -11,70 +11,70 @@
 
 1. Clone the project `AlamakRan` from [Github](https://github.com/alamaktan/AlamakRan).
 
-```
+```bash
 $ git clone https://github.com/alamaktan/AlamakRan
 ```
 
-2. Open the project using Visual Studio
+2.  Open the project using Visual Studio
 
-   Install Visual Studio if you don't already have it. Make sure to include support for `C#` during your installation.\
-   If you already have VS installed but without C# installed, you can modify the installation. Read more [here](https://docs.microsoft.com/en-us/visualstudio/install/modify-visual-studio?view=vs-2022).
+    Install Visual Studio if you don't already have it. Make sure to include support for `C#` during your installation.\
+    If you already have VS installed but without C# installed, you can modify the installation. Read more [here](https://docs.microsoft.com/en-us/visualstudio/install/modify-visual-studio?view=vs-2022).
 
-   Open the project by opening the solution file `AlamakRan.sln` and selecting VisualStudio as the program to open it with.
+    Open the project by opening the solution file `AlamakRan.sln` and selecting VisualStudio as the program to open it with.
 
-3. This project contains the source code for Encryption and Decryption of the files.
+3.  This project contains the source code for Encryption and Decryption of the files.
 
-   From a brief glance, you will realize that you require a password that was used to encrypt the files hence is needed for the decryption.
+    From a brief glance, you will realize that you require a password that was used to encrypt the files hence is needed for the decryption.
 
-   You can dig around and test different passwords but is this is the one:
+    You can dig around and test different passwords but is this is the one:
 
-         PASSWORD: TM1773RC0M1A1AWAK7AN
-   
-   It can be found in the `random_note.txt` and is also the wallet id (not important).
+          PASSWORD: TM1773RC0M1A1AWAK7AN
 
-3. Open up the file `Program.cs` in the editor.
+    It can be found in the `random_note.txt` and is also the wallet id (not important).
 
-   Replace the `Main` function with this one
+4.  Open up the file `Program.cs` in the editor.
 
-   ```
-   static void Main(string[] args)
-   {
-      const string randomPassword = "TM1773RC0M1A1AWAK7AN";
+    Replace the `Main` function with this one
 
-      const string downloadsDir = "Downloads";
-      const string targetDir = "TO_BE_DECRYPTED";
-      string userDirPath = Environment.GetEnvironmentVariable("USERPROFILE");
+    ```C#
+    static void Main(string[] args)
+    {
+       const string randomPassword = "TM1773RC0M1A1AWAK7AN";
 
-      string targetDirPath = userDirPath + @"\" + downloadsDir + @"\" + targetDir;
+       const string downloadsDir = "Downloads";
+       const string targetDir = "TO_BE_DECRYPTED";
+       string userDirPath = Environment.GetEnvironmentVariable("USERPROFILE");
 
-      Console.WriteLine(targetDirPath);
-      string[] files = Directory.GetFiles(targetDirPath, "*");
+       string targetDirPath = userDirPath + @"\" + downloadsDir + @"\" + targetDir;
 
-      Console.WriteLine("Starting decryption process");
-      foreach (string file in files)
-      {
-            FileDecrypt(file, targetDirPath + "\\Decrypted.txt", randomPassword);
-            File.Delete(file);
-      }
-   }
-   ```
+       Console.WriteLine(targetDirPath);
+       string[] files = Directory.GetFiles(targetDirPath, "*");
 
-   This will expect the encrypted file to be found in a folder called `TO_BE_DECRYPTED` in your `Downloads` folder.\
-   You can change by editing the variable: `targetDirPath`.
+       Console.WriteLine("Starting decryption process");
+       foreach (string file in files)
+       {
+             FileDecrypt(file, targetDirPath + "\\Decrypted.txt", randomPassword);
+             File.Delete(file);
+       }
+    }
+    ```
 
-   ![Expected folder](Guide-Media/explorer_x6cBMYSU7o.png)
+    This will expect the encrypted file to be found in a folder called `TO_BE_DECRYPTED` in your `Downloads` folder.\
+    You can change by editing the variable: `targetDirPath`.
 
-4. Run the edited file.
+    ![Expected folder](Guide-Media/explorer_x6cBMYSU7o.png)
 
-   Using Visual Studio
-   
-   ![Running program](Guide-Media/devenv_VTnvWc1fJw.png)
+5.  Run the edited file.
 
-5. View the flag
+    Using Visual Studio
 
-   Assuming that there was no runtime errors,\
-   The encrpyted file `flaghere.txt/rsim` found in the folder `TO_BE_DECRYPTED` should be replaced by one called `Decrypted.txt`.
+    ![Running program](Guide-Media/devenv_VTnvWc1fJw.png)
 
-   Open that file and the flag will be shown.
+6.  View the flag
 
-   ![Flag](Guide-Media/notepad_2JaSO838dm.png)
+    Assuming that there was no runtime errors,\
+    The encrpyted file `flaghere.txt/rsim` found in the folder `TO_BE_DECRYPTED` should be replaced by one called `Decrypted.txt`.
+
+    Open that file and the flag will be shown.
+
+    ![Flag](Guide-Media/notepad_2JaSO838dm.png)

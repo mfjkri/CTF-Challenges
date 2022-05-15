@@ -11,13 +11,13 @@
 
 1. Using `exif`
 
-```
+```bash
 $ exif alamak.jpg
 ```
 
 Outputs:
 
-```
+```bash
 EXIF tags in 'Metadata/Files/alamak.jpg' ('Intel' byte order):
 --------------------+----------------------------------------------------------
 Tag                 |Value
@@ -41,6 +41,6 @@ Altitude            | 0
 
 Flag is found at:
 
-```
+```bash
 Image Description   |flag@179369
 ```

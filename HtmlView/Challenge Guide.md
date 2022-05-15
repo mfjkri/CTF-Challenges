@@ -3,30 +3,30 @@
 ## Requirements:
 
 - Know how to read a page source code
-    - Base understanding of HTML and JS
+  - Base understanding of HTML and JS
 - Some knowledge of Morse code (can be googled)
 
 ---
 
 ## Steps:
 
-1. Press the `Play` button found on the page.
+1.  Press the `Play` button found on the page.
 
     You should hear some beeps that resemble morse code.
 
-2. View the `page source`.
+2.  View the `page source`.
 
     After some digging you should see a code with `1`s and `0`s as well as a function that converts that into an audio.
 
     ![Page Source View](Guide-Media/chrome_YofPtS50a9.png)
 
     The code is:
-    
-        0010 0100 01 110 11 111 010 000 0 00 000 101 00 10 110
-    
-3. I will be using `Python` to convert this code into `Morse code`.
 
-    ```
+        0010 0100 01 110 11 111 010 000 0 00 000 101 00 10 110
+
+3.  I will be using `Python` to convert this code into `Morse code`.
+
+    ```python
     code = "0010 0100 01 110 11 111 010 000 0 00 000 101 00 10 110"
 
     morse_code = ""
@@ -46,7 +46,7 @@
 
         ..-. .-.. .- --. -- --- .-. ... . .. ... -.- .. -. --.
 
-4. Using a morse code translator/decoder.
+4.  Using a morse code translator/decoder.
 
     ![Translated](Guide-Media/chrome_0o0YnIBvKv.png)
 
@@ -55,4 +55,3 @@
     **DON'T FORGET**: The flag format is flag@XXXXXX, so you will have insert the `@` into the flag.
 
         flag@morseisking
-        

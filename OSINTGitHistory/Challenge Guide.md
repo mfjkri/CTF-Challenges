@@ -9,15 +9,15 @@
 
 ## Steps:
 
-1. Using `exiftool`
+1.  Using `exiftool`
 
-    ```
+    ```bash
     $ exiftool alamak.jpg
     ```
 
     Outputs:
 
-    ```
+    ```bash
     ExifTool Version Number         : 11.88
     File Name                       : alamak.jpg
     Directory                       : .
@@ -60,7 +60,7 @@
 
     Notice that there is an email at `Creator` tag of the file.
 
-2. Try emailing the `email: alamaktan2015@gmail.com`
+2.  Try emailing the `email: alamaktan2015@gmail.com`
 
     You will recieve an auto reply from the email.
 
@@ -70,7 +70,7 @@
 
         https://github.com/alamaktan
 
-3. Head over to `Nebula` repository.
+3.  Head over to `Nebula` repository.
 
     ![Nebula repo](Guide-Media/chrome_P6iVsh6jZi.png)
 
@@ -80,7 +80,7 @@
 
     ![test.txt](Guide-Media/chrome_P7Y8rvLWQZ.png)
 
-4. View the `history` for the file test.txt.
+4.  View the `history` for the file test.txt.
 
     We can view the commit history directly from the current webpage but it is easier to view it through `https://github.githistory.xyz/`.
 
@@ -94,7 +94,7 @@
 
         https://github.githistory.xyz/alamaktan/nebula/blob/main/test.txt
 
-5. Scroll through the commits and see if you can find the flag.
+5.  Scroll through the commits and see if you can find the flag.
 
     The flag can be found in the fourth ever commit made.
 
