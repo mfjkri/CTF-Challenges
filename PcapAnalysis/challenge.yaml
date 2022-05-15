@@ -2,14 +2,14 @@ description: "Some data was leaked, Please identify what confidential informatio
 additional_info: null
 answer: "flag@isounlucky"
 
-points: 50
+points: 80
 time_based: False
 one_try: False
 multiple_choices: null
 
 hints:
   - text: "Do you know that DNS is used by malicious actors for Command-and-Control (C2)? See https://www.giac.org/paper/gcia/1116/detecting-dns-tunneling/108367 "
-    deduction: 20
+    deduction: 25
 
 files:
   - "https://drive.google.com/drive/folders/1RbXSSqnLmKQBPzamEQJfmCBS3tw0A2nj?usp=sharing"

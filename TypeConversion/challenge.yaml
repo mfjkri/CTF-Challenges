@@ -9,7 +9,7 @@ multiple_choices: null
 
 hints:
   - text: "Converting Base64 to American Standard Code for Information Interchange"
-    deduction: 20
+    deduction: 15
 
 files:
   - "https://drive.google.com/drive/folders/1XgFXVH9YU3L3wfn5msz1L8f00Wsp98gq?usp=sharing"

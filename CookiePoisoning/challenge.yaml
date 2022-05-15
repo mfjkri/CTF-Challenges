@@ -9,8 +9,8 @@ multiple_choices: null
 
 hints:
   - text: "Check out the source code. How is cookie used to login?"
-    deduction: 10
-  - text: "Do you know that Chrome/FireFox/etc has built-in Developer Tools to edit cookies?"
     deduction: 15
+  - text: "Do you know that Chrome/FireFox/etc has built-in Developer Tools to edit cookies?"
+    deduction: 10
 
 files: []

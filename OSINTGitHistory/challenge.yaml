@@ -11,7 +11,7 @@ hints:
   - text: "Did you try emailing the author?"
     deduction: 10
   - text: "Aiyo...so careless...don't know people can explore file history via github.githistory.xyz meh? "
-    deduction: 20
+    deduction: 10
 
 files:
   - "https://drive.google.com/drive/folders/1_JFPoYx6XGArNoDp5-Mxgeqt4Lqxf_tn?usp=sharing"

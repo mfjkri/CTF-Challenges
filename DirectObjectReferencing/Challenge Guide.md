@@ -1,4 +1,4 @@
-# DirectObjectReferencing | Difficulty: Medium
+# DirectObjectReferencing | Difficulty: Easy
 
 ## Requirements:
 

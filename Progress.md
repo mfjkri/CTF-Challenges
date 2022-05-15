@@ -1,13 +1,14 @@
 - ~~1-MetadataForensic~~
-- ~~2-OSINTGitHistory~~
-- ~~3-PcapAnalysis~~
-- ~~4-InputInjection~~
-- ~~5-CookiePoisoning~~
-- ~~6-DirectObjectReferencing~~
-- ~~7-LogsAnalysis~~
-- 8-AccessList
-- ~~9-RansomwareDecryption~~
-- 10-SteganographyExposure
-- ~~11-HtmlView~~
-- ~~12-TypeConversion~~
-- 13-Decryption
+- 2-Challenge Guide
+- ~~3-OSINTGitHistory~~
+- ~~4-PcapAnalysis~~
+- ~~5-InputInjection~~
+- ~~6-CookiePoisoning~~
+- ~~7-DirectObjectReferencing~~
+- ~~8-LogsAnalysis~~
+- 9-AccessList
+- ~~10-RansomwareDecryption~~
+- 11-SteganographyExposure
+- ~~12-HtmlView~~
+- ~~13-TypeConversion~~
+- 14-Decryption

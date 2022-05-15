@@ -2,7 +2,7 @@ description: "Do you know what is the message they are trying to relay?"
 additional_info: null
 answer: "flag@morseisking"
 
-points: 40
+points: 60
 time_based: False
 one_try: False
 multiple_choices: null
@@ -11,7 +11,7 @@ hints:
   - text: "Before the Internet is born, many uses telegraph to communicate."
     deduction: 10
   - text: "Have you tried looking at the HTML source code?"
-    deduction: 15
+    deduction: 20
 
 files:
   - "https://drive.google.com/drive/folders/13fggbatZBhRle0xY8s_5SvGjDmUjfAX-?usp=sharing"
