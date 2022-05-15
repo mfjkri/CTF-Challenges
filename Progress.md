@@ -1,5 +1,5 @@
 - ~~1-MetadataForensic~~
-- 2-Challenge Guide
+- ~~2-SteganographyJPG~~
 - ~~3-OSINTGitHistory~~
 - ~~4-PcapAnalysis~~
 - ~~5-InputInjection~~
