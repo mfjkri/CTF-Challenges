@@ -1,0 +1,17 @@
+description: "Looks like alamak tried to lead us to a wrong place! I am sure that was the file they used to communicate for their meeting point."
+additional_info: null
+answer: "flag@singaporezoo"
+
+points: 70
+time_based: False
+one_try: False
+multiple_choices: null
+
+hints:
+  - text: "Hmm the file seems a little huge, maybe there is more than 1 image?"
+    deduction: 15
+  - text: "https://www.file-recovery.com/jpg-signature-format.htm"
+    deduction: 10
+
+files:
+  - "https://drive.google.com/drive/folders/1_JFPoYx6XGArNoDp5-Mxgeqt4Lqxf_tn?usp=sharing"
