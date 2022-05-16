@@ -12,3 +12,5 @@
 - ~~12-HtmlView~~
 - ~~13-TypeConversion~~
 - 14-Decryption
+- ~~15-Log4jVulnAttack~~
+- ~~16-Log4jVulnExtra~~
