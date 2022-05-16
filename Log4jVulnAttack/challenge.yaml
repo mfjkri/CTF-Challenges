@@ -1,0 +1,16 @@
+description: "Recently, a serious vulnerability was discovered in the popular Java-based logging utility: Apache Log4j. \n\nCan you determine whether a potential attack might have happened?"
+additional_info: null
+answer: "flag@log4j_vuln_is_crazy"
+
+points: 60
+time_based: False
+one_try: False
+multiple_choices: null
+
+hints:
+  - text: "There seems to be a packet containing a long and suspicious string..."
+    deduction: 10
+  - text: "Perhaps the password was encoded similar the shell command?"
+    deduction: 15
+
+files: []
