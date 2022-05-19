@@ -2,10 +2,10 @@
 
 ## Requirements:
 
-- Anaylzing PCAP file using software like Wireshark
+- Req1
 
 ---
 
 ## Steps:
 
-1. Blah
+1. Step1
