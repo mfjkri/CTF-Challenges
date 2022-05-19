@@ -5,6 +5,12 @@
 - Knowledge of metadata
 - Using metadata extraction / display tools such as exif
 
+This challenge is **`Part 1`** to a series of challenges:
+
+1. **MetadataForensic** : flag@179369
+2. SteganographyJPG : flag@singaporezoo
+3. OSINTGitHistory : flag@notsohiddenanymore
+
 ---
 
 ## Steps:

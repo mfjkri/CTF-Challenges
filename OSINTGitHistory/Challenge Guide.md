@@ -5,6 +5,12 @@
 - Using exiftool to extract more metadata information
 - Knowledge of githistory (commits history)
 
+This challenge is **`Part 3`** to a series of challenges:
+
+1. MetadataForensic : flag@179369
+2. SteganographyJPG : flag@singaporezoo
+3. **OSINTGitHistory** : flag@notsohiddenanymore
+
 ---
 
 ## Steps:

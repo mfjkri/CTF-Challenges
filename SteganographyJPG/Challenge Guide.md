@@ -5,6 +5,12 @@
 - Reading of file using HEX Editor
 - Some knowledge of file markers (JPG image marker + trailer)
 
+This challenge is **`Part 2`** to a series of challenges:
+
+1. MetadataForensic : flag@179369
+2. **SteganographyJPG** : flag@singaporezoo
+3. OSINTGitHistory : flag@notsohiddenanymore
+
 ---
 
 ## Steps:
