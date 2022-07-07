@@ -2,14 +2,16 @@ description: "A Log4J Vulnerability exploit has occured... Can you determine the
 additional_info: null
 answer: "flag@java_class_decompiled"
 
-points: 80
+points: 85
+difficulty: 3
+
 time_based: False
 one_try: False
 multiple_choices: null
 
 hints:
   - text: "Can you extract the exploit class that was ran?"
-    deduction: 20
+    deduction: 15
   - text: "Is it possible to reverse the process of compiling to Java class?"
     deduction: 20
 

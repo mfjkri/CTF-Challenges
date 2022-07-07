@@ -2,7 +2,9 @@ description: "Find the secret in https://0a69-66-228-12-54.ngrok.io/Challenge4/"
 additional_info: null
 answer: "flag@youfoundit"
 
-points: 55
+points: 60
+difficulty: 2
+
 time_based: False
 one_try: False
 multiple_choices: null
@@ -11,6 +13,6 @@ hints:
   - text: "Are you sure the textbox can do ping and nothing else?"
     deduction: 10
   - text: "There's something at '/var/www/html/Challenge5'\nSee: https://medium.com/csg-govtech/bolstering-security-how-i-breached-a-wifi-mesh-access-point-from-close-proximity-to-uncover-f8f77dc3cd5d"
-    deduction: 20
+    deduction: 10
 
 files: []

@@ -2,14 +2,16 @@ description: "Can you login without the userid and password on https://0a69-66-2
 additional_info: null
 answer: "flag@ufoundit"
 
-points: 40
+points: 50
+difficulty: 1
+
 time_based: False
 one_try: False
 multiple_choices: null
 
 hints:
   - text: "Don't you find the files URL a bit interesting?"
-    deduction: 5
+    deduction: 10
   - text: "Caesar Cipher is a classic method to hide info!"
     deduction: 15
 

@@ -2,7 +2,9 @@ description: "Recently, a serious vulnerability was discovered in the popular Ja
 additional_info: null
 answer: "flag@log4j_vuln_is_crazy"
 
-points: 60
+points: 70
+difficulty: 2
+
 time_based: False
 one_try: False
 multiple_choices: null
@@ -10,7 +12,7 @@ multiple_choices: null
 hints:
   - text: "There seems to be a packet containing a long and suspicious string..."
     deduction: 10
-  - text: "Perhaps the password was encoded similar the shell command?"
+  - text: "Perhaps the password was encoded similar to the shell command?"
     deduction: 15
 
 files:

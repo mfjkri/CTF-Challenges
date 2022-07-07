@@ -3,6 +3,8 @@ additional_info: null
 answer: "flag@morseisking"
 
 points: 60
+difficulty: 2
+
 time_based: False
 one_try: False
 multiple_choices: null
@@ -11,7 +13,7 @@ hints:
   - text: "Before the Internet is born, many uses telegraph to communicate."
     deduction: 10
   - text: "Have you tried looking at the HTML source code?"
-    deduction: 20
+    deduction: 15
 
 files:
   - "https://drive.google.com/drive/folders/1vDxMWUS6JnWqKxm4TWS-387iyDBWS5PS?usp=sharing"

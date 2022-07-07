@@ -2,7 +2,9 @@ description: "Looks like alamak tried to lead us to a wrong place! I am sure tha
 additional_info: null
 answer: "flag@singaporezoo"
 
-points: 70
+points: 85
+difficulty: 3
+
 time_based: False
 one_try: False
 multiple_choices: null
@@ -11,7 +13,7 @@ hints:
   - text: "Hmm the file seems a little huge, maybe there is more than 1 image?"
     deduction: 15
   - text: "https://www.file-recovery.com/jpg-signature-format.htm"
-    deduction: 10
+    deduction: 15
 
 files:
   - "https://drive.google.com/drive/folders/1OM31k_LPj-p4zwhXWX2Io4Dk66lKHgRd?usp=sharing"

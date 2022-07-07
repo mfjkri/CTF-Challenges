@@ -3,6 +3,8 @@ additional_info: "If answer is 'CSA', submit flag@CSA."
 answer: "flag@guest"
 
 points: 50
+difficulty: 1
+
 time_based: False
 one_try: False
 multiple_choices: null
