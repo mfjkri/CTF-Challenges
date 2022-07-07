@@ -1,4 +1,4 @@
-# OSINTGitHistory | Difficulty: Easy
+# OSINTGitHistory | Difficulty: Medium
 
 ## Requirements:
 

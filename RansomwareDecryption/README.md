@@ -1,4 +1,4 @@
-# RansomwareDecryption | Difficulty: Medium
+# RansomwareDecryption | Difficulty: Hard
 
 ## Requirements:
 

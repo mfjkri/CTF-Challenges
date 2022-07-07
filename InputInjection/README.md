@@ -1,4 +1,4 @@
-# InputInjection | Difficulty: Easy
+# InputInjection | Difficulty: Medium
 
 ## Requirements:
 

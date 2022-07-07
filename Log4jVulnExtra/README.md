@@ -1,4 +1,4 @@
-# Log4jVulnExtra | Difficulty: Medium
+# Log4jVulnExtra | Difficulty: Hard
 
 ## Requirements:
 

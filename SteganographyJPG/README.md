@@ -1,4 +1,4 @@
-# Challenge Guide | Difficulty: Medium
+# Challenge Guide | Difficulty: Hard
 
 ## Requirements:
 

@@ -1,4 +1,4 @@
-# PcapAnalysis | Difficulty: Medium
+# PcapAnalysis | Difficulty: Hard
 
 ## Requirements:
 

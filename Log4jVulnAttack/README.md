@@ -1,4 +1,4 @@
-# Log4jVulnAttack | Difficulty: Easy
+# Log4jVulnAttack | Difficulty: Medium
 
 ## Requirements:
 
