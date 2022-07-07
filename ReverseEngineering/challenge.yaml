@@ -1,0 +1,19 @@
+description: "Can you unlock?"
+additional_info: null
+answer: "flag@decryptisnojoke"
+
+points: 85
+difficulty: 3
+
+time_based: False
+one_try: False
+multiple_choices: null
+
+hints:
+  - text: "dnSpy"
+    deduction: 15
+  - text: "https://docs.microsoft.com/en-us/dotnet/standard/security/encrypting-data"
+    deduction: 15
+
+files:
+  - "https://drive.google.com/drive/folders/1iRtNDtR-7C65P8IKETU7-m1Bs-rsWinU?usp=sharing"

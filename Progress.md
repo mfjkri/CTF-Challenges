@@ -11,6 +11,6 @@
 - 11-SteganographyExposure
 - ~~12-HtmlView~~
 - ~~13-TypeConversion~~
-- 14-Decryption
+- 14-ReverseEngineering
 - ~~15-Log4jVulnAttack~~
 - ~~16-Log4jVulnExtra~~

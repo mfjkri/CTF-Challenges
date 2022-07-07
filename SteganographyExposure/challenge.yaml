@@ -1,0 +1,17 @@
+description: "Challenge Hidden"
+additional_info: null
+answer: "flag@ISawTheSolarBreeze"
+
+points: 90
+difficulty: 3
+
+time_based: False
+one_try: False
+multiple_choices: null
+
+hints:
+  - text: "Have you tried changing the exposure?"
+    deduction: 20
+
+files:
+  - "https://drive.google.com/drive/folders/1zkkW-RFdHqMMcUM2-r6LW19V-azh1zV1?usp=sharing"

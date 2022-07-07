@@ -1,0 +1,23 @@
+description:
+  "You are the network administrator for Changi Inc. Given is partial configuration of your router (R1).\
+  \nYou detect two attackers (Hacker Z and Hacker Y) attacking your network.\
+  \n\nProvide the one line configuration such that only Hacker Z and Y will be blocked coming into Changi Inc network.\
+  \nhttps://74o97twzj9y.typeform.com/to/CZmaw29J"
+additional_info: null
+answer: "flag@mynetworkissecure"
+
+points: 60
+difficulty: 2
+
+time_based: False
+one_try: False
+multiple_choices: null
+
+hints:
+  - text: "Could I block the account using access-list 156?"
+    deduction: 10
+  - text: "Its not '/24'!"
+    deduction: 10
+
+files:
+  - "https://drive.google.com/drive/folders/1zG6gVJgQXA8F0xttg-25X_3jJIhW6irj?usp=sharing"

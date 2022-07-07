@@ -1,0 +1,27 @@
+!
+interface FastEthernet 0/0
+ ip address 203.1.2.1 255.255.255.252
+ ip access-group 156 in
+ duplex auto
+ speed auto
+!
+interface FastEthernet 0/1
+ ip address 192.168.0.1 255.255.255.0
+ duplex auto
+ speed auto
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip classless
+!
+ip flow-export version 9
+!
+!
+access-list 156 deny icmp any any
+access-list 156 permit ip any any
+!
+ip classless
+ip route 0.0.0.0 0.0.0.0.0 203.1.2.2
+!
