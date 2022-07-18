@@ -1,4 +1,4 @@
-description: "Can you login without the userid and password on https://0a69-66-228-12-54.ngrok.io/Challenge5_6/ ?"
+description: "Can you login without the userid and password on https://{NGROK LINK HERE}/SecretPortal/ ?"
 additional_info: null
 answer: "flag@cookieverynice"
 
